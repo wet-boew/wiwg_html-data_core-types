@@ -6,14 +6,20 @@ Objects should meet the [GC Semantic Web Implementation Guide](https://github.co
 
 # Core types
 
-## The HTML Data environment
+## Canada.ca
 * [WebPage](WebPage.md)
+* Information Architecture ( IA )
+    - No direct match, what object?
 
-## Google Rich Snippets
+## Business products
 * [Person](Person.md)
 * [Organization](Organization.md)
 * [Place](Place.md)
 * [Event](Event.md)
+
+## Government products
+* News release
+    - [schema.org/NewsArticle](http://schema.org/NewsArticle)?
 
 ## Data
 * [DataSet](DataSet.md)
