@@ -6,6 +6,25 @@ Objects should meet the [GC Semantic Web Implementation Guide](https://github.co
 
 # <a id="l3-CoreTypes"></a>Core types
 
+## Environment
+* [WebPage](#type-WebPage)
+
+## Google Rich Snippets
+* [Person](#type-Person)
+* [Organization](#type-Organization)
+* [Place](#type-Place)
+* [Event](#type-Event)
+
+## Data
+* [DataSet](#type-DataSet)
+* [DataCatalog](#type-DataCatalog)
+
+## Support
+* [PostalAddress](#type-PostalAddress)
+* [GeoCoordinates](#type-GeoCoordinates)
+
+# <a id="l3-CoreTypes-description"></a>Core types descriptions
+
 ## <a id="type-WebPage"></a>WebPage [[schema.org](http://schema.org/WebPage)]
 
 The WebPage type is intended to expose the core elements HTML pages as to uniquely identify it, the freshness(need a better word) of it's content and the top task(s) it applies to.
