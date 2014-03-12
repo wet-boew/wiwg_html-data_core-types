@@ -6,7 +6,7 @@ Objects should meet the [GC Semantic Web Implementation Guide](https://github.co
 
 # <a id="l3-CoreTypes"></a>Core types
 
-## Environment
+## The HTML Data environment
 * [WebPage](#type-WebPage)
 
 ## Google Rich Snippets
