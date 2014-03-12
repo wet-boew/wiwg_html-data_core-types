@@ -1,11 +1,11 @@
-# <a id="type-GeoCoordinates"></a>GeoCoordinates [[schema.org](http://schema.org/GeoCoordinates)]
+# GeoCoordinates [[schema.org](http://schema.org/GeoCoordinates)]
 
 The GeoCoordinates type is intended to describe a point on or above earth by decimal latitude, longitude and elevation.
 
 ## Key Properties
 
-* [latitude](#std-LatLon)
-* [longitude](#std-LatLon)
+* latitude
+* longitude
 
 ## Examples
 

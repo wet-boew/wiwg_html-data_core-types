@@ -1,4 +1,4 @@
-# <a id="type-PostalAddress"></a>PostalAddress [[schema.org](http://schema.org/PostalAddress)]
+# PostalAddress [[schema.org](http://schema.org/PostalAddress)]
 
 The PostalAddress type is intended to encapsulate a postal address as defined by Canada Post.
 
@@ -6,19 +6,19 @@ The PostalAddress type is intended to encapsulate a postal address as defined by
 
 For street address:
 
-* [streetAddress](#std-CPAG)
-* [addressLocality](#std-CPAG)
-* [addressRegion](#std-CPAG)
-* [addressCountry](#std-CPIDL)
+* streetAddress
+* addressLocality
+* addressRegion
+* addressCountry
 
 OR 
 
 For post office box:
 
-* [postOfficeBoxNumber](#std-CPAG)
-* [addressLocality](#std-CPAG)
-* [addressRegion](#std-CPAG)
-* [addressCountry](#std-CPIDL)
+* postOfficeBoxNumber
+* addressLocality
+* addressRegion
+* addressCountry
 
 ## Examples
 

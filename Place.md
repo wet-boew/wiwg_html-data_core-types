@@ -1,14 +1,14 @@
-# <a id="type-Place"></a>Place [[schema.org](http://schema.org/Place)]
+# Place [[schema.org](http://schema.org/Place)]
 
 The Place type is intended to describe a place or venu.  It is extendable to anything from a small office to a conference center with multiple simultanious events.
 
 ## Key properties
 
-* address -> [PostalAddress](#type-PostalAddress)
+* address -> [PostalAddress](PostalAddress.md)
 
 OR
 
-* geo -> [GeoCoordinates](#type-GeoCoordinates)
+* geo -> [GeoCoordinates](GeoCoordinates.md)
 
 ## Examples
 

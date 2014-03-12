@@ -1,12 +1,12 @@
-# <a id="type-Event"></a>Event [[schema.org](http://schema.org/Event)]
+# Event [[schema.org](http://schema.org/Event)]
 
 The Event type is intended to describe an evnet.  It is extendable from meetings with attendees to large scale events with performers. 
 
 ## Key properties
 
 * name
-* [startDate](#std-ISO8601)
-* Location -> [Place](#type-Place) or [PostalAddress](#type-PostalAddress)
+* startDate
+* Location -> [Place](Place.md) or [PostalAddress](PostalAddress.md)
 
 ## Examples
 

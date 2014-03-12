@@ -1,11 +1,11 @@
-# <a id="type-Person"></a>Person [[schema.org](http://schema.org/Person)]
+# Person [[schema.org](http://schema.org/Person)]
 
 The Person type is intended to describe an individual.  It is extendable for biographies, relationships and additional properties as described by schema.org.
 
 ## Key properties
 
 * name
-* [email](#std-AuthEmail)
+* email
 
 ## Examples
 

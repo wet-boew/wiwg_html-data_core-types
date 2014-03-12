@@ -1,10 +1,10 @@
-# <a id="type-DataSet"></a>DataSet [[schema.org](http://schema.org/Dataset)]
+# DataSet [[schema.org](http://schema.org/Dataset)]
 
 The DataSet type is intended to describe single pools of data.  It's extendable to include encoding, intended audience, geospacial effect and much more.
 
 ## Key properties
 
-* publisher -> [Organization](#type-Organization)
+* publisher -> [Organization](Organization.md)
 * name
 
 ## Examples

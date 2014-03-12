@@ -1,10 +1,10 @@
-# <a id="type-DataCatalog"></a>DataCatalog [[schema.org](http://schema.org/DataCatalog)]
+# DataCatalog [[schema.org](http://schema.org/DataCatalog)]
 
 The DataCatalogue type is intended to describe collections of DataSets.
 
 ## Key Properties
 
-* publisher -> [Organization](#type-Organization)
+* publisher -> [Organization](Organization.md)
 * name
 
 ## Examples

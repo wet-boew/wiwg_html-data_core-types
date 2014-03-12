@@ -1,10 +1,10 @@
-# <a id="type-Organization"></a>Organization [[schema.org](http://schema.org/Organization)]
+# Organization [[schema.org](http://schema.org/Organization)]
 
 The Organization type is intended to describe an organization and may be extended to describe architectures.
 
 ## Key properties
 
-* [legalName](#std-AuthLegalName)
+* legalName
 
 ## Examples
 

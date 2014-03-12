@@ -1,4 +1,4 @@
-# <a id="type-WebPage"></a>WebPage [[schema.org](http://schema.org/WebPage)]
+# WebPage [[schema.org](http://schema.org/WebPage)]
 
 The WebPage type is intended to expose the core elements HTML pages as to uniquely identify it, the freshness(need a better word) of it's content and the top task(s) it applies to.
 
